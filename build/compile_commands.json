@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/adam/building_physics_from_scratch/build",
+  "command": "/usr/bin/g++  -I/home/adam/building_physics_from_scratch/include -g -std=gnu++17 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/adam/building_physics_from_scratch/src/main.cpp",
+  "file": "/home/adam/building_physics_from_scratch/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/adam/building_physics_from_scratch/build",
+  "command": "/usr/bin/g++  -I/home/adam/building_physics_from_scratch/include -g -std=gnu++17 -o CMakeFiles/main.dir/src/netHeatFlow.cpp.o -c /home/adam/building_physics_from_scratch/src/netHeatFlow.cpp",
+  "file": "/home/adam/building_physics_from_scratch/src/netHeatFlow.cpp",
+  "output": "CMakeFiles/main.dir/src/netHeatFlow.cpp.o"
+}
+]
