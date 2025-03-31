@@ -1,3 +1,0 @@
-/home/adam/building_physics_from_scratch/build/CMakeFiles/main.dir
-/home/adam/building_physics_from_scratch/build/CMakeFiles/edit_cache.dir
-/home/adam/building_physics_from_scratch/build/CMakeFiles/rebuild_cache.dir
