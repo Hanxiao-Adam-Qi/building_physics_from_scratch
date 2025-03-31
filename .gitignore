@@ -1,0 +1,80 @@
+# === CMake build folders ===
+build/
+Build/
+build-*/
+
+# === CMake files ===
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+install_manifest.txt
+Makefile
+Makefile.in
+CMakeScripts/
+
+# === Compiled object & binary files ===
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+*.out
+*.app
+
+# === Compiler generated ===
+*.lo
+*.la
+*.ilk
+*.pch
+*.pdb
+*.mod
+*.dep
+
+# === Debug, logs, temp ===
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+core
+vgcore.*
+*.stackdump
+
+# === IDE / Editor files ===
+# VSCode
+.vscode/
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Xcode
+*.xcworkspace/
+*.xcodeproj/
+
+# Sublime Text
+*.sublime*
+
+# JetBrains
+*.iml
+
+# === Mac & Linux OS files ===
+.DS_Store
+*.directory
+.Trash-*
+
+# === Windows OS files ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# === Backup files ===
+*~
+*.old
+*.orig
+*.rej
